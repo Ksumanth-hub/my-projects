@@ -1,0 +1,5 @@
+status,transaction_id,total_price
+completed,4259,2086234.31
+failed,240,113055.88
+pending,417,221293.29
+refunded,84,37629.15
